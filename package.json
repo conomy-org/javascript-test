@@ -1,0 +1,25 @@
+{
+  "name": "trump",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Firanolfind",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "lodash": "^4.17.4",
+    "rx": "^4.1.0",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "keywords": [
+    "putin",
+    "trump",
+    "hillary"
+  ],
+  "description": ""
+}
