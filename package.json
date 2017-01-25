@@ -1,0 +1,24 @@
+{
+  "name": "javascript-test",
+  "version": "1.0.0",
+  "description": "test task for conomy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mory1879/javascript-test.git"
+  },
+  "author": "Fedor Kirpichev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mory1879/javascript-test/issues"
+  },
+  "homepage": "https://github.com/Mory1879/javascript-test#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "rx": "^4.1.0",
+    "twitter": "^1.7.0"
+  }
+}
